@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rajaa,
 #### JavaScript developer and Computer Science student
-![JavaScript developer and Computer Science student](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![JavaScript developer @ Wix and Computer Science student](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 
 #### Skills: 
